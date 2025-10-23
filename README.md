@@ -1,4 +1,4 @@
-# Development of of custom Linux Kernel Module for a custom hardware model
+# Development of of custom Linux Kernel Module for a convoloution accelarator hardware model
 
 <p align="center">
   <img src="/images/QEMU-Logo.wine.png" width="200" style="display: inline-block; margin-right: 10px;">
@@ -15,7 +15,7 @@
 </p>
 
 
-The main goal is to develop a Custom Linux Kernel Module for a Custom hardware model .But the flow is not as structured and there are alot of tutorials online
+The main goal is to develop a Custom Linux Kernel Module for a convoloution accelarator hardware model .But the flow is not as structured and there are alot of tutorials online
 some of them,completly wrong,confusing or incomplete.We don't brag to be the best but atleast we will try to be as clear as possible.
 
 ## What is Linux Kernel Module(LKM)?
