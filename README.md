@@ -1,4 +1,4 @@
-# Development of of custom Linux Kernel Module for a convoloution accelarator hardware model
+# Linux_Kernel_Development_and_Testing_for_Convolution_Accelerator_model
 
 <p align="center">
   <img src="/images/QEMU-Logo.wine.png" width="200" style="display: inline-block; margin-right: 10px;">
